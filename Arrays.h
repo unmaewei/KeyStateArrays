@@ -1,4 +1,4 @@
-static const char* const KeyNames[] = {
+static const char* KeyNames[] = {
     "OFF",
     "VK_LBUTTON",
     "VK_RBUTTON",
